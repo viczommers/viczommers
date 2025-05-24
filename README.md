@@ -7,5 +7,5 @@
 - Away from 🖥️, I do: **🏌️‍♂️⛳⛷️🗻🏄🌊♟️**
 
 📚 GitHub Pages
-- [Glicko-2:](https://viczommers.github.io/Glicko2-Ratings-Go/) Quantifying Uncertaincy in Zero-Sum Games, Pydata London
+- [Glicko-2:](https://viczommers.github.io/Glicko2-Ratings-Go/) Quantifying Uncertainty in Zero-Sum Games, Pydata London
 - [🎲 Liars Dice Bets Calculator](https://viczommers.github.io/Liars-Dice/)
